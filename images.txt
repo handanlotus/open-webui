@@ -1,3 +1,0 @@
-# 格式：源镜像地址 目标镜像名（空格分隔）
-ghcr.io/open-webui/open-webui:main open-webui:main
-n8nio/n8n:latest n8n:latest
